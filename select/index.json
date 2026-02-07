@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "MOAN",
+  "base_artist": "Sukekiyo",
+  "createdAt": "2026-02-07T14:20:44.184570Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Moan (vocal version)",
+      "artist": "Trentemøller",
+      "has_synced": false,
+      "path": "select/01_Moan_(vocal_version)_Trentemøller.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Turpentine Moan",
+      "artist": "Canned Heat",
+      "has_synced": false,
+      "path": "select/02_Turpentine_Moan_Canned_Heat.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Long Snake Moan",
+      "artist": "PJ Harvey",
+      "has_synced": true,
+      "path": "select/03_Long_Snake_Moan_PJ_Harvey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Levee Camp Moan",
+      "artist": "Son House",
+      "has_synced": false,
+      "path": "select/04_Levee_Camp_Moan_Son_House.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Roadhouse Moan (1st Show)",
+      "artist": "The Doors",
+      "has_synced": false,
+      "path": "select/05_Roadhouse_Moan_(1st_Show)_The_Doors.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Roadhouse Moan",
+      "artist": "The Doors",
+      "has_synced": false,
+      "path": "select/06_Roadhouse_Moan_The_Doors.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Can't Moan Can You?",
+      "artist": "The Wedding Present",
+      "has_synced": true,
+      "path": "select/07_You_Can't_Moan_Can_You_The_Wedding_Present.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mercy, Sweet Moan (Live Too Fast Blues)",
+      "artist": "The Black Crowes",
+      "has_synced": false,
+      "path": "select/08_Mercy,_Sweet_Moan_(Live_Too_Fast_Blues)_The_Black_Crowes.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Whinin' Boy Moan",
+      "artist": "Van Morrison",
+      "has_synced": true,
+      "path": "select/09_Whinin'_Boy_Moan_Van_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Moan",
+      "artist": "Robert Cray",
+      "has_synced": false,
+      "path": "select/10_Moan_Robert_Cray.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Black Cat Moan (Live)",
+      "artist": "Jeff Beck feat. Tim Bogert & Carmine Appice",
+      "has_synced": false,
+      "path": "select/11_Black_Cat_Moan_(Live)_Jeff_Beck_feat._Tim_Bogert_&_Carmine_Appice.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Black Cat Moan (Live)",
+      "artist": "Jeff Beck",
+      "has_synced": false,
+      "path": "select/12_Black_Cat_Moan_(Live)_Jeff_Beck.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Moan And Groan",
+      "artist": "Mark Morrison",
+      "has_synced": false,
+      "path": "select/13_Moan_And_Groan_Mark_Morrison.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Black Cat Moan",
+      "artist": "Beck, Bogert & Appice",
+      "has_synced": false,
+      "path": "select/14_Black_Cat_Moan_Beck,_Bogert_&_Appice.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mercy, Sweet Moan",
+      "artist": "The Black Crowes",
+      "has_synced": false,
+      "path": "select/15_Mercy,_Sweet_Moan_The_Black_Crowes.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mercy, Sweet Moan (Bonus)",
+      "artist": "Black Crowes",
+      "has_synced": true,
+      "path": "select/16_Mercy,_Sweet_Moan_(Bonus)_Black_Crowes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MOAN",
+      "artist": "sukekiyo",
+      "has_synced": false,
+      "path": "select/pl_01_MOAN_sukekiyo.txt"
+    }
+  ]
+}
